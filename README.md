@@ -1,5 +1,6 @@
-# Mary's Pharmaceutical Store [arpad-czapp-tvP6pCnq9iI-unsplash](https://github.com/Lydia-data/Power-BI-project/assets/135886418/8078be14-0e87-4708-ba6d-65dcd81ff2a2)
-# Power-BI-project
+# Mary's Pharmaceutical store![arpad-czapp-tvP6pCnq9iI-unsplash](https://github.com/Lydia-data/Power-BI-project/assets/135886418/385f4489-7c42-4e60-93b8-91413c04d995)
+
+
 # Introduction:
 I was given an assignment to analyze pharmaceutical drug sales in a pharmacy. Formulate business questions, track metrics for trend identification, This assignment presents an excellent opportunity for me to enhance enhance my skills in data cleaning, analysis, and visualization, which are highly sought-after in the field of business analytics.
 
